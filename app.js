@@ -1,5 +1,1 @@
-<!doctype html>
-<html>
-<head>
-<body> Hello World </body>
-</head></html>
+var app={};
